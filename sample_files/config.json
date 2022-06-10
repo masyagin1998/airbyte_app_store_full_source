@@ -1,0 +1,11 @@
+{
+  "app_name": "telegram",
+  "countries": [
+    "ru",
+    "il",
+    "ae"
+  ],
+  "start_time": "2016-01-01T00:00:00",
+  "timeout_ms": 5000,
+  "max_reviews_per_req": 20
+}
